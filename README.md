@@ -60,6 +60,6 @@ This is a Java-based console application designed to manage a smart campus syste
 ---
 
 ## 👨‍💻 Author
-Abhinav Gaur
+Yugank Prajapati
 
 -------------------------------------xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-----------------------------------------------
